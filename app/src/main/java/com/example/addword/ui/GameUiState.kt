@@ -1,6 +1,6 @@
 package com.example.addword.ui
 
-data class GameUiState (
 
+data class GameUiState (
     val currentScrambledWord: String = ""
 )
